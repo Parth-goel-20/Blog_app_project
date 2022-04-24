@@ -1,0 +1,18 @@
+.custom_scroll{
+    position: relative;
+    height: 200px;
+    margin-top: 0.5rem;
+    overflow: auto;
+
+}
+.vertical_scroll{
+    position: relative;
+    height: 350px;
+    overflow: auto;
+}
+#home,
+#features,
+#pricing,
+#contact{
+    min-height:550px;
+}
